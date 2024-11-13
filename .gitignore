@@ -1,0 +1,16 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+myenv/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+AppData/
+*.ipynb_checkpoints/
